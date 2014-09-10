@@ -1,0 +1,3 @@
+LAWA (Library for Adaptive Wavelet Applications) is a C++-framework for wavelet applications for PDE, focusing mainly on adaptive methods.
+
+This repository contains the library including the model reduction framework developed for the PhD thesis "Reduced Basis Methods for Time-Periodic Parametric Partial Differential Equations" by Kristina Steih.
